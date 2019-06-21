@@ -316,7 +316,7 @@ render <- reactive({
 
 ### Thank you! Questions?
 
-Demo: https://github.com/wittmaan/EARL2018
+Demo: https://github.com/wittmaan/UseR2019
 
 Contact: andreas_wittmann@gmx.de
 
